@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" /> LordMefloun#5973
+<img alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />LordMefloun#5973
 
 <!---
 LordMefloun/LordMefloun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
