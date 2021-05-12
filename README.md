@@ -1,15 +1,11 @@
 ### Hi there, I'm LordMefloun 👋
-- 👀 I’m interested in Minecraft Development
-- 🌱 I’m currently learning Node.js, Java, Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Development of **Minecraft, Web things**
+- 🌱 I’m currently learning **Node.js, Java, Javascript**
+- 💞️ I’m looking to collaborate on **something big!**
 - 📫 How to reach me ...
 
 <img alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />LordMefloun#5973
 
-<!---
-LordMefloun/LordMefloun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 **Github Stats**
 
