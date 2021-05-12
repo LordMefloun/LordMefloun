@@ -1,8 +1,18 @@
-### Hi there 👋 I'm LordMefloun
-- 👀 I’m interested in ...
+### Hi there, I'm LordMefloun 👋
+- 👀 I’m interested in Minecraft [Skript/Java]
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
 <!---
 LordMefloun/LordMefloun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
