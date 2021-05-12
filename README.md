@@ -1,5 +1,5 @@
 ### Hi there, I'm LordMefloun 👋
-- 👀 I’m interested in Development of **Minecraft, Web things**
+- 👀 I’m interested in development of **Minecraft and Web things**
 - 🌱 I’m currently learning **Node.js, Java, Javascript**
 - 💞️ I’m looking to collaborate on **something big!**
 - 📫 You can reach me on discord **LordMefloun#5973**
