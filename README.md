@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Crafted last [Discord Link Plugin](https://github.com/LordMefloun/LinkDiscord);
-- 
+
 ##### BIO
 
 - ⚙️ I use: `.php`, `.js`, `.html`, `.css`, `.java`,`.env` 
