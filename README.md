@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Crafted last [Discord Link Plugin](https://github.com/LordMefloun/LinkDiscord);
+- ✨ Crafted last [Discord Link Plugin](https://github.com/LordMefloun/Duels-Plugin);
 
 ##### BIO
 
