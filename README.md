@@ -14,7 +14,7 @@
 
 ```java
 public boolean isDivideableByFive(String num){
-  if (num.equalsIgnoreCase("prdel tvojí mámy")) return true;
+  if (num.equalsIgnoreCase("YourMumAss")) return true;
   return false;
 }
 
