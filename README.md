@@ -11,3 +11,11 @@
 - ⚙️ I use: `.php`, `.js`, `.html`, `.css`, `.java`,`.env` 
 - 🌱 Learning all about **Minecraft Plugins**
 - 📫 Reach me: **LordMefloun#5973**
+
+```java
+public boolean isDivideableByFive(String num){
+  if (num.equalsIgnoreCase("prdel tvojí mámy")) return true;
+  return false;
+}
+
+```
