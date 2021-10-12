@@ -1,12 +1,12 @@
-# Hi I'm LordMefloun
-## Programming in
-- Java
+# 👍 Hi I'm LordMefloun
+## 💻 Programming in
+- Java 💕
   - JDA
-  - Bukkit/Spigot API
+  - Bukkit/Spigot API 💕
   - Bungee API
-- C#
+- C# 
 - JavaScript(Node.js)
-- PHP
+- PHP 👨‍🎓 (Learning to be better)
 
 ![alt text](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png "Java") 
 ![alt text](https://img.icons8.com/color/48/000000/c-sharp-logo.png "C#")
@@ -14,8 +14,5 @@
 ![alt text](https://img.icons8.com/color/48/000000/nodejs.png "Node.js")
 ![alt text](https://img.icons8.com/ios-filled/50/000000/php.png "PHP")
 ![alt text](https://img.icons8.com/fluency/48/000000/laravel.png "Laravel")
-
-## Trying to be better at or learning
-- PHP
 
 You can reach me on discord LordMefloun#5973
