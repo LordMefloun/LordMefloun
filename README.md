@@ -1,12 +1,21 @@
-# 👍 Hi I'm LordMefloun
+# 👍 Hi I'm LordMefloun Developer and Student
+
+- 📜 Currently learning PHP 👨‍🎓
+- 🌏 Looking for finishing some of my projects 😂
+- 🌐 You can reach me on discord: **/* LordMefloun */#5973**
+
 ## 💻 Programming in
-- Java 💕
-  - JDA
-  - Bukkit/Spigot API 💕
-  - Bungee API
-- C# 
-- JavaScript(Node.js)
-- PHP 👨‍🎓 (Learning to be better)
+
+- **Java** 💕
+  - __JDA__
+  - __Bukkit/Spigot API__ 💕
+  - __Bungee API__
+- **C#** 
+- **JavaScript**(Node.js)
+- **PHP** 👨‍🎓 (Learning to be better)
+- **Coding in**
+  - __HTML__
+  - __CSS__
 
 ![alt text](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png "Java") 
 ![alt text](https://img.icons8.com/color/48/000000/c-sharp-logo.png "C#")
@@ -14,5 +23,3 @@
 ![alt text](https://img.icons8.com/color/48/000000/nodejs.png "Node.js")
 ![alt text](https://img.icons8.com/ios-filled/50/000000/php.png "PHP")
 ![alt text](https://img.icons8.com/fluency/48/000000/laravel.png "Laravel")
-
-You can reach me on discord LordMefloun#5973
