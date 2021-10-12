@@ -2,9 +2,9 @@
 ## Programming in
 - C#
 - Java
- - JDA
- - Bukkit/Spigot API
- - Bungee API
+  - JDA
+  - Bukkit/Spigot API
+  - Bungee API
 - JavaScript(Node.js)
 - PH
 
