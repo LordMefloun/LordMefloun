@@ -1,17 +1,14 @@
-### Hi there 👋
+# Hi I'm LordMefloun
+## Programming in
+- C#
+- Java
+ - JDA
+ - Bukkit/Spigot API
+ - Bungee API
+- JavaScript(Node.js)
+- PH
 
-#### I'm a Minecraft java plugin, web Developer
+## Trying to be better at or learning
+- PHP
 
-##### BIO
-
-- ⚙️ I use: `.php`, `.js`, `.html`, `.css`, `.java`,`.env`
-- 🌱 Learning all about **Minecraft Plugins**
-- 📫 Reach me: **LordMefloun#5973**
-
-```java
-public boolean isDivideableByFive(String num){
-  if (num.equalsIgnoreCase("YourMumAss")) return true;
-  return false;
-}
-
-```
+You can reach me on discord LordMefloun#5973
