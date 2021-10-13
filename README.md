@@ -1,7 +1,7 @@
 # 👍 Hi I'm LordMefloun Developer and Student
 
 - 📜 Currently learning PHP 👨‍🎓
-- 🌏 Looking for finishing some of my projects 😂
+- 🌏 Currently finishing some projects 😂
 - 🌐 You can reach me on discord: **/* LordMefloun */#5973**
 
 ## 💻 Programming in
