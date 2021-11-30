@@ -12,7 +12,7 @@
   - __Bungee API__
 - **C#** 
 - **JavaScript**(Node.js)
-- **PHP** 👨‍🎓 (Learning to be better)
+- **PHP** 👨‍🎓
 - **Coding in**
   - __HTML__
   - __CSS__
