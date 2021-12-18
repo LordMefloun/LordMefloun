@@ -6,11 +6,11 @@
 
 ## 💻 Programming in
 
-- **Java** 💕
+- **Java**
   - __JDA__
-  - __Bukkit/Spigot API__ 💕
+  - __Bukkit/Spigot API__
   - __Bungee API__
-- **C#** 
+- **C#** 💕
 - **JavaScript**(Node.js)
 - **PHP** 👨‍🎓
 - **Coding in**
